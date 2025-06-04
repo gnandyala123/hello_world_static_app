@@ -1,0 +1,1 @@
+# hello_world_static_app
